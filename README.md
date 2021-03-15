@@ -13,7 +13,8 @@ This app uses an expo framework to makes development faster, make sure that [exp
 
 ```
 git clone https://github.com/bleszerd/Passo
-#soon...
+yarn #or npm install
+expo start
 ```
 
 **done!**
